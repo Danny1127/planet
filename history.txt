@@ -1,92 +1,3 @@
-  216  cd Desktop/
-  217  pwd
-  218  mkdir profile
-  219  cp Student\ Hourly\ Appointment\ Information\ Sheet.pdf profile/.
-  220  rm Student\ Hourly\ Appointment\ Information\ Sheet.pdf 
-  221  mv ZHANGWENDAN7162015TaxDocs.pdf profile/.
-  222  mv Most\ Recent\ I-94.pdf profile/.
-  223  rm 出行收支.numbers/
-  224  rm edu-2015-07-mfe-syllabus.pdf 
-  225  rm -r 照片
-  226  rm -r 照片.zip 
-  227  ls
-  228  cd Applications
-  229  ls
-  230  cd ../
-  231  cd Applications\ \(Parallels\)/
-  232  ls
-  233  cd ../
-  234  ls
-  235  cd ~/Users/hikaru/
-  236  ls
-  237  cd ~
-  238  ls
-  239  cd Desktop/
-  240  ls
-  241  cd ~
-  242  ls
-  243  pwd
-  244  cd /Documents/workspace
-  245  cd Documents/workspace/
-  246  ls
-  247  cd StartingProject/
-  248  ls
-  249  cd ~
-  250  cd ../
-  251  ls
-  252  cd ../
-  253  ls
-  254  cd Applications/
-  255  ls
-  256  pwd
-  257  cd eclipse/
-  258  cd sdk
-  259  cd platform-tools/
-  260  ls
-  261  adb logcat
-  262  ls
-  263  ls -l
-  264  adb logcat
-  265  ping 0.0.0.0
-  266  ping baidu.com
-  267  ping wisc.edu
-  268  java -v
-  269  python -v
-  270  python -version
-  271  python -h
-  272  java -h
-  273  java -version
-  274  javac -version
-  275  cd /System/Library/Frameworks/
-  276  ls ja*
-  277  ls
-  278  ls Ja*
-  279  cd JavaVM.framework/
-  280  clear
-  281  ls
-  282  pwd
-  283  cd Commands
-  284  ls
-  285  eclipse -version
-  286  top
-  287  kill 1323
-  288  top
-  289  clear
-  290  top
-  291  clear
-  292  pwd
-  293  cd ~/Desktop/Ex_Files_Java_EssT2/
-  294  ls
-  295  cd Exercise\ Files/
-  296  ls
-  297  cd 03_GettingStarted/
-  298  cd CommandLine/
-  299  ls
-  300  ls src
-  301  clear
-  302  cd src
-  303  javac Main.java 
-  304  ls
   305  java Main
   306  clear
   307  javac Main.java -verbose
@@ -498,3 +409,92 @@
   713  ls
   714  git log
   715  history > history.txt
+  716  git add history.txt 
+  717  git status
+  718  git reset history.txt 
+  719  git status
+  720  ls
+  721  clear
+  722  ls
+  723  git add history.txt
+  724  git status
+  725  git commit -m "Modify history.txt"
+  726  git status
+  727  git log
+  728  wc -l history.txt 
+  729  nano mars.txt 
+  730  git status
+  731  git diff
+  732  git commit -m "Updating mars.txt about Wolfman"
+  733  git add mars.txt 
+  734  git commit -m "Updating mars.txt about Wolfman"
+  735  git log
+  736  git diff
+  737  git status
+  738  clear
+  739  nano mars.txt 
+  740  git status
+  741  git diff
+  742  git add mars.txt 
+  743  git diff
+  744  git status
+  745  nano mars.txt 
+  746  git diff
+  747  git diff --staged
+  748  cd ../
+  749  ls
+  750  mkdir bio
+  751  cd bio
+  752  git init
+  753  clear
+  754  nano me.txt
+  755  git add me.txt
+  756  git status
+  757  git commit -m "Three lines file."
+  758  git status
+  759  git log
+  760  nano me.txt
+  761  git diff
+  762  git add me.txt 
+  763  git diff -staged | git commit -m
+  764  git commit -m < git diff -staged
+  765  git log
+  766  git commit -m " Modification"
+  767  git log
+  768  history > history1.txt
+  769  vi history1.txt 
+  770  head history1.txt 
+  771  tail history1.txt 
+  772  git add history1.txt 
+  773  history > history1.txt 
+  774  git diff
+  775  git commit
+  776  git status
+  777  git log
+  778  cd ../planets/
+  779  clear
+  780  ls
+  781  git status
+  782  git diff -staged
+  783  git diff --staged
+  784  nano mars.txt 
+  785  git diff
+  786  git diff --staged
+  787  git add mars.txt 
+  788  git diff -staged
+  789  git diff --staged
+  790  git commit -m "All done."
+  791  git log
+  792  git diff HEAD~1 mars.txt 
+  793  git diff HEAD~2 mars.txt 
+  794  git diff HEAD~3 mars.txt 
+  795  git diff HEAD~4 mars.txt 
+  796  echo 'Mars is the third planet' >> mars.txt 
+  797  cat mars.txt 
+  798  git diff
+  799  git checkout HEAD mars.txt 
+  800  cat mars.txt 
+  801  git diff HEAD~1 HEAD~2 mars.txt 
+  802  git diff HEAD~2 HEAD~1 mars.txt 
+  803  git diff HEAD~2 HEAD~1 
+  804  history > history.txt 
