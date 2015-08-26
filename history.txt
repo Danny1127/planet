@@ -1,0 +1,500 @@
+  195  cd my-app/
+  196  ls
+  197  ls platforms
+  198  ls
+  199  ls platforms/
+  200  ls
+  201  ls -lt
+  202  phonegap run android
+  203  phonegap run ios
+  204  phonegap run ios
+  205  phonegap run android
+  206  ls
+  207  cd Desktop/
+  208  ls
+  209  ls
+  210  cd Desktop/
+  211  ls
+  212  ls
+  213  exit
+  214  top
+  215  top
+  216  cd Desktop/
+  217  pwd
+  218  mkdir profile
+  219  cp Student\ Hourly\ Appointment\ Information\ Sheet.pdf profile/.
+  220  rm Student\ Hourly\ Appointment\ Information\ Sheet.pdf 
+  221  mv ZHANGWENDAN7162015TaxDocs.pdf profile/.
+  222  mv Most\ Recent\ I-94.pdf profile/.
+  223  rm 出行收支.numbers/
+  224  rm edu-2015-07-mfe-syllabus.pdf 
+  225  rm -r 照片
+  226  rm -r 照片.zip 
+  227  ls
+  228  cd Applications
+  229  ls
+  230  cd ../
+  231  cd Applications\ \(Parallels\)/
+  232  ls
+  233  cd ../
+  234  ls
+  235  cd ~/Users/hikaru/
+  236  ls
+  237  cd ~
+  238  ls
+  239  cd Desktop/
+  240  ls
+  241  cd ~
+  242  ls
+  243  pwd
+  244  cd /Documents/workspace
+  245  cd Documents/workspace/
+  246  ls
+  247  cd StartingProject/
+  248  ls
+  249  cd ~
+  250  cd ../
+  251  ls
+  252  cd ../
+  253  ls
+  254  cd Applications/
+  255  ls
+  256  pwd
+  257  cd eclipse/
+  258  cd sdk
+  259  cd platform-tools/
+  260  ls
+  261  adb logcat
+  262  ls
+  263  ls -l
+  264  adb logcat
+  265  ping 0.0.0.0
+  266  ping baidu.com
+  267  ping wisc.edu
+  268  java -v
+  269  python -v
+  270  python -version
+  271  python -h
+  272  java -h
+  273  java -version
+  274  javac -version
+  275  cd /System/Library/Frameworks/
+  276  ls ja*
+  277  ls
+  278  ls Ja*
+  279  cd JavaVM.framework/
+  280  clear
+  281  ls
+  282  pwd
+  283  cd Commands
+  284  ls
+  285  eclipse -version
+  286  top
+  287  kill 1323
+  288  top
+  289  clear
+  290  top
+  291  clear
+  292  pwd
+  293  cd ~/Desktop/Ex_Files_Java_EssT2/
+  294  ls
+  295  cd Exercise\ Files/
+  296  ls
+  297  cd 03_GettingStarted/
+  298  cd CommandLine/
+  299  ls
+  300  ls src
+  301  clear
+  302  cd src
+  303  javac Main.java 
+  304  ls
+  305  java Main
+  306  clear
+  307  javac Main.java -verbose
+  308  pwd
+  309  cd ../../
+  310  pwd
+  311  ls
+  312  cd Arguments/
+  313  ls
+  314  ls src
+  315  ls bin
+  316  cd bin
+  317  java Main.class args1 arg2
+  318  java Main args1 arg2
+  319  java Main args1 arg2
+  320  java Main \"args1 arg2\"
+  321  clear
+  322  exit
+  323  cd Desktop/
+  324  vi 2014_test1.txt
+  325  rm 2014_test1.txt 
+  326  cd Desktop/
+  327  vi script.sh
+  328  mkdir Pentamer
+  329  vi script.sh 
+  330  cd Pentamer/
+  331  mkdir aaaaa_2
+  332  mkdir aaaaa_5
+  333  mkdir aaaaa_6
+  334  cd ../
+  335  sh script.sh 
+  336  vi script.sh 
+  337  sh script.sh 
+  338  vi script.sh 
+  339  sh script.sh 
+  340  vi script.sh 
+  341  sh script.sh 
+  342  vi script.sh 
+  343  sh script.sh 
+  344  vi script.sh 
+  345  sh script.sh 
+  346  vi script.sh 
+  347  sh script.sh 
+  348  vi script.sh 
+  349  sh script.sh 
+  350  vi script.sh 
+  351  sh script.sh 
+  352  vi script.sh 
+  353  sh script.sh 
+  354  vi script.sh 
+  355  sh script.sh 
+  356  vi script.sh 
+  357  sh script.sh 
+  358  vi script.sh 
+  359  sh script.sh 
+  360  vi script.sh 
+  361  sh script.sh 
+  362  vi script.sh 
+  363  sh script.sh 
+  364  cd Desktop/
+  365  sh script.sh 
+  366  sh script.sh 
+  367  cd Desktop/
+  368  ls Pentamer/ > list.txt
+  369  head list.txt 
+  370  sh script.sh 
+  371  sh script.sh 
+  372  sh script.sh 
+  373  ls
+  374  cat list.txt 
+  375  sh script.sh 
+  376  sh script.sh 
+  377  sh script.sh 
+  378  sh script.sh 
+  379  sh script.sh 
+  380  sh script.sh 
+  381  sh script.sh 
+  382  sh script.sh 
+  383  sh script.sh 
+  384  vi get.py
+  385  sh script.sh 
+  386  vi get.py
+  387  sh script.sh 
+  388  vi get.py
+  389  sh script.sh 
+  390  vi get.py
+  391  sh script.sh 
+  392  vi get.py
+  393  sh script.sh 
+  394  vi get.py
+  395  man head
+  396  man cat
+  397  man pr
+  398  top
+  399  cd Applications
+  400  ls
+  401  cd ../
+  402  ls
+  403  ls
+  404  cd ../
+  405  ls
+  406  cd ../../
+  407  ls
+  408  cd Applications/
+  409  cd Utilities/
+  410  ls
+  411  top
+  412  sudo killall VDCAssistant
+  413  cd ~
+  414  vi mycmd
+  415  ls /usr/local
+  416  ls /usr/local/git
+  417  ls /usr/local/git/bin
+  418  sudo mv /usr/bin/git /usr/bin/git-system
+  419  ls /usr/local/git/
+  420  ls /usr/local/git/etc
+  421  cd Desktop/shell-novice/data
+  422  ls -F
+  423  cd north-pacific-gyre/
+  424  ls
+  425  cd 2012-07-03/
+  426  ls
+  427  cd ../../ && ls north-pacific-gyre/2012-07-03
+  428  ls
+  429  cd ls -h
+  430  ls -h
+  431  ls -s
+  432  ls -help
+  433  man ls
+  434  ls -h -l
+  435  ls -hl
+  436  ls -hs
+  437  ls -hlp
+  438  ls -l
+  439  man ls
+  440  ls -lh K
+  441  Gedit
+  442  mkdir thesis
+  443  ls ~/
+  444  ls -a ~/
+  445  nano ~/.bash_profile
+  446  cd Desktop/
+  447  unzip shell-novice-data.zip 
+  448  nano -version
+  449  nano --help
+  450  git --version
+  451  python =c "import nose"
+  452  python -c "import nose"
+  453  python -c "import numpy"
+  454  python -c "import matplotlib"
+  455  mkdir shell-novice
+  456  nano -help
+  457  nano --help
+  458  nano -h
+  459  clear
+  460  clear
+  461  mv data shell-novice/.
+  462  ls
+  463  cd shell-novice/
+  464  ls
+  465  cd data/
+  466  ls
+  467  clear
+  468  ls
+  469  cd ../
+  470  ls
+  471  rm -r data
+  472  mv ../data .
+  473  ls ../
+  474  mv ../data.zip .
+  475  clear
+  476  whoami
+  477  pwd
+  478  ls
+  479  ls -F
+  480  clear
+  481  ls -F
+  482  ls -h
+  483  ls -s
+  484  cd Desktop/shell-novice/data
+  485  nano drift.txt
+  486  ls
+  487  nano ~/.bash_profile
+  488  ls 
+  489  cat ~/.bash_profile
+  490  ls -color
+  491  nano ~/.bash_profile
+  492  nano draft.txt
+  493  ls
+  494  mv draft.txt thesis/.
+  495  ls -F
+  496  cd Desktop/data
+  497  cd Desktop/shell-novice/data
+  498  rm -r thesis/
+  499  ls 
+  500  mkdir thesis
+  501  touch thesis/draft.txt
+  502  ls thesis
+  503  cat notes.txt 
+  504  mv thesis/draft.txt thesis/quotes.txt
+  505  mv thesis/quotes.txt .
+  506  cp quotes.txt thesis/quotations.txt
+  507  nano 1.txt
+  508  nano 2.txt
+  509  nano 3.txt
+  510  cp 1.txt 2.txt 3.txt 
+  511  cp 1.txt 2.txt thesis/
+  512  ls thesis/
+  513  rm thesis/*.txt 
+  514  rm [1-9].txt
+  515  ls
+  516  ls molecules/
+  517  head cubane.
+  518  head cubane.pdb
+  519  cd molecules/
+  520  wc 
+  521  wc *.pdb
+  522  clear
+  523  wc *.pdb
+  524  man wc
+  525  wc -m *.pdb
+  526  wc -c *
+  527  wc -w *
+  528  cat cubane.pdb 
+  529  wc -l *.pdb > lengths.txt
+  530  wc -l *.pdb >> lengths.txt
+  531  wc -l lengths.txt 
+  532  ls | wc -l
+  533  wc -l *.pdb > lengths.txt
+  534  cat lengths.txt 
+  535  sort -n lengths.txt 
+  536  nano lengths.txt 
+  537  sort -n lengths.txt 
+  538  sort -n lengths.txt > sorted-lengths.txt
+  539  nano lengths.txt 
+  540  sort -n lengths.txt 
+  541  sort -g lengths.txt 
+  542  sort  lengths.txt 
+  543  vi lengths.txt 
+  544  wc -l * | sort -n > sorted-lengths.txt 
+  545  cat sorted-lengths.txt 
+  546  wc -l *.pdb | sort -n > sorted-lengths.txt 
+  547  wc -l * | sort -n > sorted-lengths.txt 
+  548  cd ..
+  549  cd north-pacific-gyre/2012-07-03/
+  550  wc -l *.txt
+  551  cat NENE01729A.txt 
+  552  wc *.txt
+  553  wc -l *.txt| sort -n | head -5
+  554  ls *Z.txt
+  555  ls *[AB].txt
+  556  ls *[0AB].txt
+  557  ls *[ZAB].txt
+  558  ls *[ZB].txt
+  559  wc -l NENE01843B.txt 
+  560  wc -l < NENE01843B.txt 
+  561  man sort
+  562  wc -w
+  563  cd ../../creatures/
+  564  ls
+  565  clear
+  566  ls
+  567  for filename in unicorn.dat phoenix.dat; do head -3 $filename ; done
+  568  for filename in $(ls); do newname=`echo original$filename`; mv $filename $newname; done
+  569  ls
+  570  for filename in *.dat; do newname=`echo $filename| cut -d"" -f 1-6`-`echo $filename|cut -d"" -f7-`; echo $newname; done
+  571  for filename in *.dat; do newname=`echo $filename| cut -d'' -f 1-6`-`echo $filename|cut -d'' -f7-`; echo $newname; done
+  572  for filename in *.dat; do newname=`echo $filename| cut -d -f 1-6`-`echo $filename|cut -d -f7-`; echo $newname; done
+  573  for filename in *.dat; do newname=`echo $filename| cut -f 1-6`-`echo $filename|cut -f7-`; echo $newname; done
+  574  for filename in *.dat; do newname=`sed 's/original/original-/' $filename`; echo $newname; done
+  575  for filename in *.dat; do newname=`sed 's/original/original-/' '$filename'`; echo $newname; done
+  576  for filename in *.dat; do newname=`ls *.dat|sed 's/original/original-/'`; echo $newname; done
+  577  for filename in *.dat; do newname=`ls $filename|sed 's/original/original-/'`; mv $filename $newname; done
+  578  ls
+  579  clear
+  580  ls
+  581  cd ../north-pacific-gyre/2012-07-03/
+  582  for datafile in *[AB].txt;do( echo $datafile stats-$datafile;) done
+  583  for datafile in *[AB].txt; do ( bash goostats $datafile stats-$datafile;) done
+  584  man bash goostats
+  585  for datafile in *[AB].txt; do ( echo $datafile; bash goostats $datafile stats-$datafile;) done
+  586  ls
+  587  cat goostats
+  588  rm ^stats*
+  589  ls
+  590  rm stats*.txt
+  591  ls
+  592  for datafile in *[AB].txt; do ( echo $datafile; bash goostats $datafile stats-$datafile;) done
+  593  history
+  594  history tail -3
+  595  history |tail -3
+  596  history |tail -3
+  597  cd ../..
+  598  cd molecules/
+  599  ls
+  600  clear
+  601  ls
+  602  nano middle.sh
+  603  cat middle.sh
+  604  for sugar in *.dat; do     echo $sugar;     cat $sugar > xylose.dat; done
+  605  for sugar in *.txt; do (echo $sugar; cat $sugar > xylose.txt;) done
+  606  bash middle.sh
+  607  cat octane.pdb 
+  608  sh middle.sh 
+  609  ./middle.sh
+  610  ls -l
+  611  chmod middle.sh 777
+  612  chmod middle.sh x7
+  613  chmod middle.sh 333
+  614  man chmod
+  615  chmod middle.sh x
+  616  nano middle.sh 
+  617  sh middle.sh 
+  618  sh middle.sh octane.pdb
+  619  for file in *.dat; do   echo "analyze $file > analyzed-$file"; done
+  620  for file in *.txt; do   echo "analyze $file > analyzed-$file"; done
+  621  for file in *.txt; do   echo analyze $file > analyzed-$file; done
+  622  ls
+  623  rm analyzed-*
+  624  ls
+  625  nano middle.sh 
+  626  clear
+  627  sh middle.sh pentane.pdb -20 -5
+  628  for left in 2 3 4 5;do (for right in $left; do expr $left + $right; done;) done
+  629  nano sorted.sh
+  630  sh sorted.sh *.pdb ../creatures/*.dat
+  631  nano sorted.sh
+  632  nano middle.sh 
+  633  nano sorted.sh 
+  634  cd ../north-pacific-gyre/
+  635  cd 2012-07-03/
+  636  clear
+  637  nano do-stats.sh
+  638  cat goostats 
+  639  sed 's/sh/bash/' goostats
+  640  sed 's/sh/bash/' do-stats.sh
+  641  nano do-stats.sh 
+  642  cat do-stats.sh 
+  643  sed 's/sh/bash/' do-stats.sh > do-stats.sh 
+  644  cat do-stats.sh 
+  645  nano do-stats.sh 
+  646  cat do-stats.sh 
+  647  ls
+  648  rm stats-*
+  649  ls
+  650  bash do-stats.sh 
+  651  cat goostats
+  652  clear
+  653  ls
+  654  cd ../../
+  655  ls
+  656  cd creatures/
+  657  ls
+  658  echo $@.dat
+  659  nano example.sh
+  660  sh example.sh 
+  661  cat example.sh 
+  662  echo *.*
+  663  sh example.sh *.dat
+  664  nano example.sh
+  665  vi example.sh 
+  666  sh example.sh *.dat
+  667  nano example.sh 
+  668  sh example.sh *.dat
+  669  nano example.sh
+  670  sh example.sh *.dat
+  671  clear
+  672  man git
+  673  man git
+  674  gittutorial
+  675  git config --global user.name "Hikaru"
+  676  git config --global user.email "zhangwendan@qq.com"
+  677  git config --global color.ui "auto"
+  678  git config --global core.editor "nano"
+  679  subl hello.txt
+  680  cd 
+  681  git config --list
+  682  clear
+  683  git config --list
+  684  which nano
+  685  which java
+  686  which vim
+  687  cd Desktop/
+  688  cd shell-novice/
+  689  mkdir planets
+  690  cd planets/
+  691  clear
+  692  git init
+  693  git status
+  694  history > history.txt
