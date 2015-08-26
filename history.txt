@@ -1,24 +1,3 @@
-  195  cd my-app/
-  196  ls
-  197  ls platforms
-  198  ls
-  199  ls platforms/
-  200  ls
-  201  ls -lt
-  202  phonegap run android
-  203  phonegap run ios
-  204  phonegap run ios
-  205  phonegap run android
-  206  ls
-  207  cd Desktop/
-  208  ls
-  209  ls
-  210  cd Desktop/
-  211  ls
-  212  ls
-  213  exit
-  214  top
-  215  top
   216  cd Desktop/
   217  pwd
   218  mkdir profile
@@ -498,3 +477,24 @@
   692  git init
   693  git status
   694  history > history.txt
+  695  ls
+  696  ls -a
+  697  cat .git/description 
+  698  ls .git/
+  699  git status
+  700  cd .git
+  701  ls
+  702  cd ..
+  703  ls
+  704  ls -a
+  705  clear
+  706  nano mars.txt
+  707  git status
+  708  git add history.txt 
+  709  git status
+  710  git add mars.txt 
+  711  git commit -m "Starting some notes about Mars"
+  712  git status
+  713  ls
+  714  git log
+  715  history > history.txt
