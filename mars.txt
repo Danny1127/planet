@@ -4,3 +4,4 @@ Add one line.
 After add.
 HAHA
 what is reset
+Last line conflict.
